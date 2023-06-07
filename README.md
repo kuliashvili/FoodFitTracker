@@ -1,22 +1,22 @@
 # FoodFitTracker
 
-FoodFitTracker is a web application that allows you to calculate the calories of various foods. Simply enter the food name and quantity, and the app will provide you with the corresponding calorie count. The app is built using React and is designed to be responsive, ensuring a seamless experience across different devices.
+<h4> FoodFitTracker is a web application that allows you to calculate the calories of various foods. Simply enter the food name and quantity, and the app will provide you with the corresponding calorie count. The app is built using React and is designed to be responsive, ensuring a seamless experience across different devices. </h4>
 
 ## Features
 
-- Calculate calories of different foods based on their names and quantities.
-- Responsive design for optimal user experience on various screen sizes.
-- Beautiful and intuitive user interface.
+- <h4>Calculate calories of different foods based on their names and quantities.</h4>
+- <h4>Responsive design for optimal user experience on various screen sizes.</h4>
+- <h4>Beautiful and intuitive user interface.</h4>
 
 ## Live Demo
 
-Check out the live demo of the FoodFitTracker app [here](https://yulo01.github.io/FoodFitTracker/).
+<h4>Check out the live demo of the FoodFitTracker app [here](https://yulo01.github.io/FoodFitTracker/).</h4>
 
 ## Technologies Used
 
-- React
-- HTML
-- CSS
+- <h4>React</h4>
+- <h4>HTML</h4>
+- <h4>CSS</h4>
 
 ## Usage
 
@@ -26,27 +26,8 @@ Check out the live demo of the FoodFitTracker app [here](https://yulo01.github.i
    git clone https://github.com/yulo01/FoodFitTracker.git
    ```
 
-2. Install the dependencies:
-
-   ```bash
-   cd FoodFitTracker
-   npm install
-   ```
-
-3. Start the development server:
-
-   ```bash
-   npm start
-   ```
-
-4. Open your web browser and visit `http://localhost:3000` to access the app.
 
 ## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+<h4>Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.</h4>
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-Feel free to explore and utilize the FoodFitTracker app to track your food's calorie intake and maintain a healthy lifestyle!
