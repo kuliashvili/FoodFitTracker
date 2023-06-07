@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/FoodFitTracker/static/css/main.1dd1fbd6.css",
-    "main.js": "/FoodFitTracker/static/js/main.4c5ce2c4.js",
+    "main.css": "/FoodFitTracker/static/css/main.05e1b260.css",
+    "main.js": "/FoodFitTracker/static/js/main.92193eab.js",
     "static/js/787.daa3a689.chunk.js": "/FoodFitTracker/static/js/787.daa3a689.chunk.js",
+    "static/media/background.jpg": "/FoodFitTracker/static/media/background.e38a263e4d6ce64bd42a.jpg",
     "index.html": "/FoodFitTracker/index.html",
-    "main.1dd1fbd6.css.map": "/FoodFitTracker/static/css/main.1dd1fbd6.css.map",
-    "main.4c5ce2c4.js.map": "/FoodFitTracker/static/js/main.4c5ce2c4.js.map",
+    "main.05e1b260.css.map": "/FoodFitTracker/static/css/main.05e1b260.css.map",
+    "main.92193eab.js.map": "/FoodFitTracker/static/js/main.92193eab.js.map",
     "787.daa3a689.chunk.js.map": "/FoodFitTracker/static/js/787.daa3a689.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1dd1fbd6.css",
-    "static/js/main.4c5ce2c4.js"
+    "static/css/main.05e1b260.css",
+    "static/js/main.92193eab.js"
   ]
 }
