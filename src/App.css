@@ -115,24 +115,52 @@
 
 @media (max-width: 880px) {
     .food {
-        font-size: 50px;
+        font-size: 45px;
     }
     .header {
-        font-size: 30px;
+        font-size: 20px;
         margin-bottom: 20px;
     }
     .food-input {
         width: 350px;
     }
     .container {
-        width: 660px;
+        width: 500px;
     }
     .food-input::placeholder {
         color: #999;
-        font-size: 20px;
+        font-size: 17px;
     }
     .final-answers {
-        font-size: 33px;
+        font-size: 28px;
         margin: 10px;
+    }
+}
+
+@media (max-width: 580px) {
+    .food {
+        font-size: 45px;
+    }
+    .header {
+        font-size: 20px;
+        margin-bottom: 20px;
+        width: 140%;
+    }
+    .food-input {
+        width: 300px;
+    }
+    .container {
+        width: 80%;
+    }
+    .food-input::placeholder {
+        color: #999;
+        font-size: 17px;
+    }
+    .final-answers {
+        font-size: 28px;
+        margin: 10px;
+    }
+    .answers {
+        margin-bottom: 40px;
     }
 }
