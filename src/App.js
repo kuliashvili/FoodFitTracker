@@ -46,8 +46,11 @@ function App() {
     <div className="App">
       <div className="container">
         <div className="container-inner">
-        <h2 className="header">Enter food quantity:</h2>
-        <input
+        <h1 className="food">
+          {inputValue == "" ? "write food in input" : inputValue}
+        </h1>
+        <h2  className="header">Enter food quantity:</h2>
+        <input placeholder="for example.. 1"
           type="number"
           onChange={updateInputQuantityValue}
           className="food-input"
@@ -55,18 +58,16 @@ function App() {
         />
         <h2 className="header">Enter food name:</h2>
         <input
+        placeholder="for example.. egg"
           onChange={updateInputValue}
           id="food-input"
           className="food-input"
           type="text"
         />
         
-        <h1 className="food">
-          {inputValue == "" ? "write food in input" : inputValue}
-        </h1>
         <div className="answers">
-        <h1 className="calories">{"calories of the food = " + calories + " cal"}</h1>
-        <h1 className="weight">{"weight = " + weight + " gr"}</h1>
+        <h1 className=" final-answers calories">{"calories of the food = " + calories + " cal"}</h1>
+        <h1 className=" final-answers weight">{"weight = " + weight + " gr"}</h1>
         </div>
        
         </div>
