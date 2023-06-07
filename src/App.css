@@ -64,3 +64,13 @@
     font-size: 20px;
     margin-top: 10px;
 }
+
+.answers {
+    background-color: rgb(4, 136, 4);
+    color: white;
+    width: 80%;
+    border-radius: 14px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+    margin-top: 10px;
+}
