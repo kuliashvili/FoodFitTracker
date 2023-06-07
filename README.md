@@ -13,7 +13,7 @@
 
 ## Live Demo
 
-<h4>Check out the live demo of the FoodFitTracker app [here](https://yulo01.github.io/FoodFitTracker/).</h4>
+<h4>Check out the live demo of the FoodFitTracker app here: https://yulo01.github.io/FoodFitTracker/</h4>
 
 ## Technologies Used
 
