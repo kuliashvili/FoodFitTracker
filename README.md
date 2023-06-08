@@ -1,4 +1,4 @@
-# FoodFitTracker,  <h3>live demo here: https://yulo01.github.io/FoodFitTracker/</h3>
+# FoodFitTracker  <h2>live demo here: https://yulo01.github.io/FoodFitTracker/</h2>
 
 <h4> FoodFitTracker is a web application that allows you to calculate the calories of various foods. Simply enter the food name and quantity, and the app will provide you with the corresponding calorie count. The app is built using React and is designed to be responsive, ensuring a seamless experience across different devices. </h4>
 
